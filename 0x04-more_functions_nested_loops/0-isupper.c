@@ -1,17 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - check the code.
- *
+ * _isupper - check the code.
+ * @c: character as input
  * Return: Always 0.
  */
-
 int _isupper(int  c)
-/**
- * main - check the code.
- *
- * Return: always 0.
- */
 {
 if (c <= 'A' && c >= 'A')
 {
