@@ -7,5 +7,5 @@
 void print_number(int n)
 {
 
-	return (n);
+_putchar(n + '0');
 }
