@@ -10,5 +10,5 @@ void reset_to_98(int *n)
 {
 int *numb_ch;
 numb_ch = n;
-*number_ch = 98;
+*numb_ch = 98;
 }
