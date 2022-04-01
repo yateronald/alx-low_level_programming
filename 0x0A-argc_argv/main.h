@@ -1,4 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
+
 int main (int argc, char *argv[]);
-char _putchar(char c);
+
+#endif
